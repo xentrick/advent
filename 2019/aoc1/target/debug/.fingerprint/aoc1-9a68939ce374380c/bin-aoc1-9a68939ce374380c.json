@@ -1,0 +1,1 @@
+{"rustc":12537768869586049025,"features":"[]","target":2257444237438371965,"profile":14996655781355331481,"path":1036222786711178230,"deps":[[12828344630022628652,"rayon",false,6387141676572296624]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/aoc1-9a68939ce374380c/dep-bin-aoc1-9a68939ce374380c"}}],"rustflags":[],"metadata":18040405757925188237}
